@@ -1,0 +1,9 @@
+{
+  "project": "Alabama A&M Solar Project",
+  "site_address": "4900 Meridian St N, Huntsville, AL 35811, USA",
+  "reference": "AAMU-60%ISSUEDFORREVIEW-0508.pdf, cover sheet GI001 and site plan WI101",
+  "latitude_from_plan": 34.786027777777775,
+  "exact_panel_gps_coordinates": null,
+  "site_longitude_verified": false,
+  "notes": "The plan is the official project site reference. Demo GPS points are illustrative and should not be treated as verified panel positions."
+}
